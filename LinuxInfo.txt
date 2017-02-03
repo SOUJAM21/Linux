@@ -1,0 +1,17 @@
+cd  change to another directory
+mv 	move files and directories/ rename files and directories
+ls	list the contents of a directory
+pwd	print your current working directory
+mkdir	make a new directory
+more	display the contents of a file
+
+cp	copy files
+rm	remove files
+groups	list the groups you are in
+rmdir	remove empty directories 
+chmod	change file permissions
+
+cat	concatenate files
+man	view manual pages
+find	locate files	
+finger	show user information
